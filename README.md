@@ -15,12 +15,20 @@
 </div>
 ### 4. Brightness measurements: Spectral centroid, LTAS and tristimulus
 <div align="center">
+        <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/centroid.png" alt="centroid" title="centroid"</img>
+</div>
+
+<div align="center">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/LTAS_ssqj.png" alt="ltas-ssqj" title="ltas ssqj"</img>
 </div>
 
 <div align="center">
-         <img width="42.5%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/tristimulus12Label.png" alt="fhc-histo" title="fhc histogram"</img>
+         <img width="42.5%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/tristimulus12Label.png" alt="trist12" title="trist12"</img>
         <img height="0" width="8px">
-        <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/tristimulus23_preciseLabel.png" alt="sln-histo" title="sln histogrm"</img>
+        <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/tristimulus23_preciseLabel.png" alt="trist23" title="trist23"</img>
 </div>
+
 ### 5. Spectral flux
+<div align="center">
+        <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/spectralFlux.png" alt="spectral flux" title="spectral flux"</img>
+</div>
