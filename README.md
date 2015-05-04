@@ -51,7 +51,7 @@ Figure a5. LTAS for ssqj-LSs and ssqj-CXq
 
 Table a5. Measurements of the three compoments of tristimulus for each recording
 <div align="center">
-        <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/tables/tristimulus.png" alt="trist table" title="trist table"</img>
+        <img width="60%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/tables/tristimulus.png" alt="trist table" title="trist table"</img>
 </div>
 ### 5. Spectral flux
 Table a6. Spectral flux mean and SD for each recording
