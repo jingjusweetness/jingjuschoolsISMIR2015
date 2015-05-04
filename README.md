@@ -12,4 +12,8 @@
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/loudness.png" alt="loudness-bar-charts" title="loudness bar charts"</img>
 </div>
 ### 4. Brightness measurements: Spectral centroid, LTAS and tristimulus
+<div align="center">
+        <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/LTAS_ssqj.png" alt="ltas-ssqj" title="ltas ssqj"</img>
+
+</div>
 ### 5. Spectral flux
