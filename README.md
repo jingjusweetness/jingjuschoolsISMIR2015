@@ -5,9 +5,7 @@ Table a1. Pitch values of the first degrees for each recording
 <div align="center">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/tables/first%20degree.png" alt="first degrees" title="first degrees"</img>
 </div>
-
-
-
+---
 Figure a1. Average pitch histograms for the three recordings of fhc (left) and sln (right)
 <div align="center">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/fhc-histo-labelled.png" alt="fhc-histo" title="fhc histogram"</img>
