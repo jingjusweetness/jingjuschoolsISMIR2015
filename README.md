@@ -62,6 +62,7 @@ Figure a6. Spectral flux mean for each recording in Mei and Cheng
 <div align="center">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/spectralFlux.png" alt="spectral flux" title="spectral flux"</img>
 </div>
+Tables a7, a8, a9. Spectral flux mean and SD for each recording, setting different loudness thresholds for transition frames between silence and sound
 <div align="center">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/tables/flux0.1.png" alt="flux0 table" title="flux0 table"</img>
 </div>
@@ -71,4 +72,3 @@ Figure a6. Spectral flux mean for each recording in Mei and Cheng
 <div align="center">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/tables/flux0.3.png" alt="flux0 table" title="flux0 table"</img>
 </div>
-Tables a7, a8, a9. Spectral flux mean and SD for each recording, setting different loudness thresholds for transition frames between silence and sound
