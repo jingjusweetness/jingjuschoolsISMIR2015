@@ -2,8 +2,9 @@
 ## APPENDIX. ADDITIONAL DATA
 ### 1. First degree and pitch histograms
 <div align="center">
-        <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/fhc-histo-labelled.png" alt="About screen" title="About screen"</img>
+        <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/fhc-histo-labelled.png" alt="fhc-histo" title="fhc histogram"</img>
         <img height="0" width="8px">
+        <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/sln-histo-labelled.png" alt="sln-histo" title="sln histogrm"</img>
 </div>
 <!--![alt tag](https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/fhc-histo-labelled.png)-->
 ### 2. Vibrato rate and extent measurements
