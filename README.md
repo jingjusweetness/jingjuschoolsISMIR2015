@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/tristimulus12Label.png" alt="fhc-histo" title="fhc histogram"</img>
+         <img width="40%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/tristimulus12Label.png" alt="fhc-histo" title="fhc histogram"</img>
         <img height="0" width="8px">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/tristimulus23_preciseLabel.png" alt="sln-histo" title="sln histogrm"</img>
 </div>
