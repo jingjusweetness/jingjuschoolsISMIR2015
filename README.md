@@ -2,7 +2,7 @@
 ## APPENDIX. ADDITIONAL DATA
 ### 1. First degree and pitch histograms
 <div align="center">
-        <img width="45%" src="fig/fhc-histo-labelled.PNG" alt="About screen" title="About screen"</img>
+        <img width="45%" src="./fig/fhc-histo-labelled.PNG" alt="About screen" title="About screen"</img>
         <img height="0" width="8px">
 </div>
 <!--![alt tag](https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/fhc-histo-labelled.png)-->
