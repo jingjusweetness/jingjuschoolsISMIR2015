@@ -5,14 +5,14 @@ Table a1. Pitch values of the first degrees for each recording
 <div align="center">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/tables/first%20degree.png" alt="first degrees" title="first degrees"</img>
 </div>
----
+
 Figure a1. Average pitch histograms for the three recordings of fhc (left) and sln (right)
 <div align="center">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/fhc-histo-labelled.png" alt="fhc-histo" title="fhc histogram"</img>
         <img height="0" width="8px">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/sln-histo-labelled.png" alt="sln-histo" title="sln histogrm"</img>
 </div>
-
+---
 ### 2. Vibrato rate and extent measurements
 Table a2. Vibrato measurements for each recording
 <div align="center">
@@ -20,7 +20,14 @@ Table a2. Vibrato measurements for each recording
 </div>
 ---
 Figure a2. Comparison of two vibratos in the same aria section for ssqj-LSs (left) and ssqj-CXq (right)
+<div align="center">
+        <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/ssqj-LSs-vibrato.png" alt="vibrato ssqj LSs image" title="vibrato ssqj LSs image"</img>
+</div>
 
+<div align="center">
+        <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/ssqj-CXq-vibrato.png" alt="vibrato ssqj CXq image" title="vibrato ssqj CXq image"</img>
+</div>
+---
 ### 3. Loudness
 Table a3. Loudness SD for each recording (mean normalised to 0.5)
 <div align="center">
