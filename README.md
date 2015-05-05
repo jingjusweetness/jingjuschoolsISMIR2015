@@ -2,6 +2,7 @@
 ## APPENDIX. ADDITIONAL DATA
 ### 1. First degree and pitch histograms
 <div align="center">Table a1. Pitch values of the first degrees for each recording</div>
+<br />
 <div align="center">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/tables/first%20degree.png" alt="first degrees" title="first degrees"</img>
 </div>
@@ -16,6 +17,7 @@
 ---
 ### 2. Vibrato rate and extent measurements
 <div align="center">Table a2. Vibrato measurements for each recording</div>
+<br />
 <div align="center">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/tables/vibrato.png" alt="vibrato table" title="vibrato table"</img>
 </div>
@@ -30,6 +32,7 @@
 ---
 ### 3. Loudness
 <div align="center">Table a3. Loudness SD for each recording (mean normalised to 0.5)</div>
+<br />
 <div align="center">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/tables/loudness.png" alt="loudness table" title="loudness table"</img>
 </div>
@@ -44,6 +47,7 @@
 ---
 ### 4. Brightness measurements: Spectral centroid, LTAS and tristimulus
 <div align="center">Table a4. Spectral centroid mean and SD for each recording</div>
+<br />
 <div align="center">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/tables/centroid.png" alt="spectralCentroid table" title="spectralCentroid table"</img>
 </div>
@@ -62,6 +66,7 @@
 <br />
 <br />
 <div align="center">Table a5. Measurements of the three compoments of tristimulus for each recording</div>
+<br />
 <div align="center">
         <img width="75%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/tables/tristimulus.png" alt="trist table" title="trist table"</img>
 </div>
@@ -80,6 +85,7 @@
 <br />
 <br />
 <div align="center">Tables a7, a8, a9. Spectral flux mean and SD for each recording, <br>setting different loudness thresholds for transition frames between silence and sound</div>
+<br />
 <div align="center">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/tables/flux0.1.png" alt="flux0 table" title="flux0 table"</img>
 </div>
