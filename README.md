@@ -79,7 +79,7 @@
 </div>
 <br />
 <br />
-<div align="center">Tables a7, a8, a9. Spectral flux mean and SD for each recording, setting different loudness thresholds for transition frames between silence and sound</div>
+<div align="center">Tables a7, a8, a9. Spectral flux mean and SD for each recording, <br>setting different loudness thresholds for transition frames between silence and sound</div>
 <div align="center">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/tables/flux0.1.png" alt="flux0 table" title="flux0 table"</img>
 </div>
