@@ -22,9 +22,7 @@ Table a2. Vibrato measurements for each recording
 Figure a2. Comparison of two vibratos in the same aria section for ssqj-LSs (left) and ssqj-CXq (right)
 <div align="center">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/ssqj-LSs-vibrato.png" alt="vibrato ssqj LSs image" title="vibrato ssqj LSs image"</img>
-</div>
-
-<div align="center">
+        <img height="0" width="8px">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/ssqj-CXq-vibrato.png" alt="vibrato ssqj CXq image" title="vibrato ssqj CXq image"</img>
 </div>
 ---
