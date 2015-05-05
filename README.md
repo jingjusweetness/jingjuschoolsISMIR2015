@@ -1,7 +1,7 @@
 # MEASURING VOICE SWEETNESS: USING MIR TO DESCRIBE TWO JINGJU SCHOOLS
 ## APPENDIX. ADDITIONAL DATA
 ### 1. First degree and pitch histograms
-<p style='text-align: center;'>Table a1. Pitch values of the first degrees for each recording</p>
+<div align="center">Table a1. Pitch values of the first degrees for each recording</div>
 <div align="center">
         <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/tables/first%20degree.png" alt="first degrees" title="first degrees"</img>
 </div>
