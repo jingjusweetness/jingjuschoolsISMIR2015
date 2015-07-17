@@ -3,15 +3,15 @@
 ### 1. First degree and pitch histograms
 <div align="center">Table a1. Pitch values of the first degrees for each recording</div>
 <div align="center">
-        <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/tables/first%20degree.png" alt="first degrees" title="first degrees"</img>
+        <img width="45%" src="https://github.com/jingjuschools/jingjuschoolsISMIR2015/blob/master/tables/first%20degree%20-%20revised.png" title="first degrees"</img>
 </div>
 <br />
 <br />
 <div align="center">Figure a1. Average pitch histograms for the three recordings of fhc (left) and sln (right)</div>
 <div align="center">
-        <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/fhc-histo-labelled.png" alt="fhc-histo" title="fhc histogram"</img>
+        <img width="45%" src="https://github.com/jingjuschools/jingjuschoolsISMIR2015/blob/master/fig/fhc-revised.png" alt="fhc-histo" title="fhc histogram"</img>
         <img height="0" width="8px">
-        <img width="45%" src="https://github.com/jingjusweetness/jingjusweetnessISMIR2015/blob/master/fig/sln-histo-labelled.png" alt="sln-histo" title="sln histogrm"</img>
+        <img width="45%" src="https://github.com/jingjuschools/jingjuschoolsISMIR2015/blob/master/fig/sln-revised.png" alt="sln-histo" title="sln histogrm"</img>
 </div>
 ---
 ### 2. Vibrato rate and extent measurements
