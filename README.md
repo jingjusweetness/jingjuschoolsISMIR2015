@@ -1,4 +1,4 @@
-# MEASURING VOICE SWEETNESS: USING MIR TO DESCRIBE TWO JINGJU SCHOOLS
+# COMPARISON OF THE SINGING STYLE OF TWO JINGJU SCHOOLS
 ## APPENDIX. ADDITIONAL DATA
 ### 1. First degree and pitch histograms
 <div align="center">Table a1. Pitch values of the first degrees for each recording</div>
